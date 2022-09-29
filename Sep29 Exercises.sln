@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sep29 Exercises", "Sep29 Exercises\Sep29 Exercises.csproj", "{65691CAE-8D8A-4DB4-9BD2-93F147BABD20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dal_bank", "dal_bank\dal_bank.csproj", "{8CFCD500-7DCB-423D-B218-84D64039A557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65691CAE-8D8A-4DB4-9BD2-93F147BABD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65691CAE-8D8A-4DB4-9BD2-93F147BABD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65691CAE-8D8A-4DB4-9BD2-93F147BABD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65691CAE-8D8A-4DB4-9BD2-93F147BABD20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CFCD500-7DCB-423D-B218-84D64039A557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFCD500-7DCB-423D-B218-84D64039A557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFCD500-7DCB-423D-B218-84D64039A557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFCD500-7DCB-423D-B218-84D64039A557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C082E38D-BCB2-4607-8080-C58BA3CE766D}
+	EndGlobalSection
+EndGlobal
